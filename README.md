@@ -1,4 +1,4 @@
-# HIT/README.md at XHX-med-sys
+# XHX-med-sys
 
 这个仓库包含了 HIT/XHX-med-sys 项目文件。
 
